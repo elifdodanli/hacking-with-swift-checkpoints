@@ -21,6 +21,7 @@ func sqrtNum(_ input: Int) throws -> Int {
 }
 
 let input = 9
+let input = 100
 
 do{
     let result = try sqrtNum(input)
