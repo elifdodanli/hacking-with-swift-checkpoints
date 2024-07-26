@@ -20,7 +20,6 @@ func sqrtNum(_ input: Int) throws -> Int {
     throw sqrtErrors.noRoot
 }
 
-let input = 9
 let input = 100
 
 do{
